@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "XXX Statistical Genetics"
+title: "Statistical Genetics Group"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 Welcome to my website! I'm working in the field of statistical genetics and bioinformatics to uncover the genetic basis of complex diseases and inform disease risk. 
+
+Key Words: Genome-wide association study (GWAS) (https://en.wikipedia.org/wiki/Genome-wide_association_study), Omics data (https://en.wikipedia.org/wiki/Omics), Biobank data (https://en.wikipedia.org/wiki/Biobank#:~:text=A%20biobank%20is%20a%20type%20of%20biorepository%20that,of%20contemporary%20research%20like%20genomics%20and%20personalized%20medicine.), Bayesian Inference (https://en.wikipedia.org/wiki/Bayesian_inference).
+
+
 
 
 
