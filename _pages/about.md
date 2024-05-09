@@ -20,7 +20,7 @@ B.Sc. in Statistics(2016): Department of Mathematics, Beijing Normal University
 
 Work Experience
 ======
-Now: Associate Professor in School of Life Sciences, Tianjin University
+Now: [Associate Professor](http://faculty.tju.edu.cn/236232/en/index.htm) in School of Life Sciences, Tianjin University
 
 Postdoc(2023): Department of Statistics, The Chinese University of Hong Kong, Advisor: [Prof. Yingying Wei](https://www.sta.cuhk.edu.hk/peoples/ywei/)
 
